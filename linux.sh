@@ -85,7 +85,7 @@ then
 
     echo""
 
-    xdg-open https://linktr.ee/mrx7014
+    xdg-open https://instagram.com/jeanpseven
 
 	      
 fi
