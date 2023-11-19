@@ -14,7 +14,6 @@ IHwgfCAgfCB8ICBfX18vICAKICBfX19fKSB8IHxfX19fICAgfCB8ICB8IHxfX3wgfCB8ICAgICAg
 CiB8X19fX18vfF9fX19fX3wgIHxffCAgIFxfX19fL3xffA=="
 
 sleep 2
-echo -e "\033[1;36m
 		  
 1] Setup and FiX Errors
 
