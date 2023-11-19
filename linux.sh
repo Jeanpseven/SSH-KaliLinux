@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-# Coded By MRX7014
+# Coded By Wrench
 
 
 base64 -d <<<"ICBfICAgICAgX19fX18gXyAgIF8gXyAgICBfX18gICBfXyAgICAgCiB8IHwgICAgfF8gICBffCBc
@@ -20,9 +20,7 @@ echo -e "\033[1;36m
 
 2] Run as GUI
 
-3] My linktree
-
-====== MRX7014 =====
+3] IG
               
 "
 echo -e "\033[33m"
@@ -40,14 +38,13 @@ then
     sleep 2
 
 
-    echo -e "\033[34mThis Script Made By mrx7014\n"
+    echo -e "\033[34mThis Script Modded by Jeanpseven\n"
 
 
     sleep 2
 
 
-    echo -e "\033[1;33mNow, I recommend you follow me on facebook\n"
-
+    echo -e "\n"
 
     echo -e " \033[31m                  [*] Wait ...                  "
 
@@ -57,7 +54,7 @@ then
     sleep 5
 
 
-    xdg-open https://www.facebook.com/kemo.beah.73
+    xdg-open https://www.instagram.com/jeanpseven
 
     sleep 2
 
@@ -69,7 +66,7 @@ then
 
 
 
-    echo -e "\033[1;31m Now Enter 'segfault'\n "
+    echo -e "\033[1;31m Password : 'segfault'\n "
 
 
     sudo apt update && sudo apt install openssh-client && ssh root@segfault.net
