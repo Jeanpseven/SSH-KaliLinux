@@ -50,11 +50,6 @@ then
 
     echo ""
 
-    sleep 5
-
-
-    xdg-open https://www.instagram.com/jeanpseven
-
     sleep 2
 
 
