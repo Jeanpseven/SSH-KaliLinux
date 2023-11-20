@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-# Coded By MRX7014
+# Coded By Wrench
 
 
 base64 -d <<<"IF9fX19fIF9fX19fX19fX19fX19fICBfX19fICAgX19fICAgX18KfF8gICBffCAgX19ffCBfX18g
@@ -23,9 +23,7 @@ echo -e "\033[1;36m
 
 2] Run as GUI
 
-3] My linktree
-
-====== MRX7014 =====
+3] IG
               
 "
 echo -e "\033[33m"
@@ -43,24 +41,15 @@ then
     sleep 2
 
 
-    echo -e "\033[34mThis Script Made By mrx7014\n"
+    echo -e "\033[34mThis Script Modded by Wrench\n"
 
 
     sleep 2
-
-
-    echo -e "\033[1;33mNow, I recommend you follow me on facebook\n"
-
 
     echo -e " \033[31m                  [*] Wait ...                  "
 
 
     echo ""
-
-    sleep 5
-
-
-    xdg-open https://www.facebook.com/kemo.beah.73
 
     sleep 2
 
@@ -72,7 +61,7 @@ then
 
 
 
-    echo -e "\033[1;31m Now Enter 'segfault'\n "
+    echo -e "\033[1;31m Password : 'segfault'\n "
 
 
     pkg update && pkg install openssh && ssh root@segfault.net
@@ -91,7 +80,7 @@ then
 
     echo""
 
-    xdg-open https://linktr.ee/mrx7014
+    xdg-open https://instagram.com/Jeanpseven
 
 	      
 fi
